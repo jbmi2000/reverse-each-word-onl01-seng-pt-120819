@@ -9,5 +9,5 @@ def reverse_each_word(sentence1)
   #new_array.collect {|word| reversed_words << word.reverse}
 #  sentence1.split('').reverse.join('').reverse
   #binding.pry
-puts new_array
+ new_array
 end
